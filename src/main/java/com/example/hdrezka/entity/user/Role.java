@@ -1,6 +1,6 @@
 package com.example.hdrezka.entity.user;
 
 public enum Role {
-    USER,
+    USER,BASEUSER,STANDARTUSER,PREMIUMUSER,
     ADMIN
 }
